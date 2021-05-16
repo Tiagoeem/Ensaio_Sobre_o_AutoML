@@ -23,7 +23,7 @@ Serão utilizados dois datasets:
 
 ## Dados
 
-Não é preciso baixar os dados, os notebook possuem um link direto para o Google Colab em que o script pode ser executado diretamente. É utilizado a biblioteca gdown para baixar os dados automaticamente. **Então não se preocupe, de play e apenas relaxe**.
+Não é preciso baixar os dados, os notebooks possuem um link direto para o Google Colab em que o script pode ser executado diretamente. É utilizado a biblioteca gdown para baixar os dados automaticamente. **Então não se preocupe, de play e apenas relaxe**.
 
 ## Testes
 
