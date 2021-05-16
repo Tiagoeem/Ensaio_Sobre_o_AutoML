@@ -29,7 +29,7 @@ Não é preciso baixar os dados, os notebooks possuem um link direto para o Goog
 
 Seguem a descrição de cada teste.
 
-### Teste 1 - Default + Dataset Fácil [notebook](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/Auto_ML_PyCaret_Heart.ipynb)
+### Teste 1 - Default + Dataset Fácil | [código-PyCaret](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/Auto_ML_PyCaret_Heart.ipynb) | [H2O-em progresso](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML)
 
 Será utilizado o dataset Heart Disease, os dados não terão tratamento e os bibliotecas serão utlizadas com suas configurações "default".
 
