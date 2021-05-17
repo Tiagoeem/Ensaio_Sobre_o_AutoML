@@ -52,50 +52,53 @@ Será realizado modelagem completa do problema antes de utilizar as bibliotecas.
 
 ## Resultados
 
-### Resultado do teste 1
+### Resultado - Teste 1
 
 Dataset: Heart Disease ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)
 
-**AutoML: PyCaret**
+- **AutoML: PyCaret**
+
 Melhor Classificador: Cat Boost
 
 ![resumo](https://raw.githubusercontent.com/Tiagoeem/Ensaio_Sobre_o_AutoML/main/suporte/imgs/pycaret/resumo_default_heart.png)
 
 ![auc](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/auc_default_heart.png?raw=true)
   
-**AutoML: H2O.ai**
+- **AutoML: H2O.ai**
 
 Em progresso.
 
-### Resultado do teste 2
+### Resultado - Teste 2
 
 Dataset: Heart Disease ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)
 
-**AutoML: PyCaret**
+- **AutoML: PyCaret**
+
 Melhor Classificador: Logistic Regression
 
 ![resumo](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/resumo_custom_heart.png?raw=true)
 
 ![auc](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/auc_custom_heart.png?raw=true)
 
-### Resultado do teste 3
+### Resultado - Teste 3
 
 Dataset: Rain Australia ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
-**AutoML: PyCaret**
+- **AutoML: PyCaret**
+
 Melhor Classificador: LightGBM
 
 ![resumo](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/resumo_default_rain.png?raw=true)
 
 ![auc](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/auc_default_rain.png?raw=true)
 
-### Resultado do teste 4
+### Resultado - Teste 4
 
 Dataset: Rain Australia ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
 Em progresso.
 
-### Resultado do teste 5
+### Resultado - Teste 5
 
 Dataset: Rain Australia ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 
