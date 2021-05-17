@@ -57,21 +57,24 @@ Será realizado modelagem completa do problema antes de utilizar as bibliotecas.
 **AutoML: PyCaret**
 Melhor Classificador: Cat Boost
 
-<imagems>
+![resumo](https://raw.githubusercontent.com/Tiagoeem/Ensaio_Sobre_o_AutoML/main/suporte/imgs/pycaret/resumo_default_heart.png)
+
+![auc](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/auc_default_heart.png?raw=true)
   
 **AutoML: H2O.ai**
-Melhor Classificador: ?
 
-<imagems>
-  
+Em progresso.
 
 ### Resultado do teste 2
 
 Em progresso.
 
 ### Resultado do teste 3
+Melhor Classificador: LightGBM
 
-Em progresso.
+![resumo](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/resumo_default_rain.png?raw=true)
+
+![auc](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/suporte/imgs/pycaret/auc_default_rain.png?raw=true)
 
 ### Resultado do teste 4
 
