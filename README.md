@@ -37,7 +37,7 @@ Será utilizado o dataset Heart Disease, os dados não terão tratamento e os bi
 
 Utilizando Heart Disease, os dados terão tratamento das próprias bibliotecas, além de "feature engeneering" e os bibliotecas serão utlizadas com suas configurações modificadas.
 
-### Teste 3 - Default + Dataset Difícil [em progresso](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML)
+### Teste 3 - Default + Dataset Difícil | [código-PyCaret](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML/blob/main/Auto_ML_PyCaret_Rain_Aus.ipynb) | [H2O-em progresso](https://github.com/Tiagoeem/Ensaio_Sobre_o_AutoML)
 
 Será utilizado o dataset Rain in Australia, os dados não terão tratamento e os bibliotecas serão utlizadas com seus valores "default".
 
